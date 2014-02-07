@@ -12,9 +12,9 @@ pygments: true
 title: "The New Stack"
 tagline: "the new stack"
 author : 
-  name : Robert Louis Stevenson
-  email: "burning@burningon.com"
-  twitter : 
+  name : Alex H Williams
+  email: "editor@thenewstack.com"
+  twitter : '@thenewstack'
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
